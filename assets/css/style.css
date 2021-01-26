@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: seagreen;
+}
+
+.container{
+    background-color: seashell;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 10px;
+}
